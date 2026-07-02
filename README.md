@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Ashish</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Ashish;AI+%26+Machine+Learning+Student;Python+Developer;Computer+Vision+Enthusiast;Building+Real-World+AI+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast;Python+Developer;Open+Source+Learner" alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
