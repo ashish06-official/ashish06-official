@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+👋,+I'm+Ashish" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi,+I'm+Ashish" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast;Python+Developer;Open+Source+Learner" alt="Typing SVG" />
 </p>
+
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
