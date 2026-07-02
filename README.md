@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">AI & Machine Learning Student | Python Developer | Future AI Engineer</h3>
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-![](https://img.shields.io/badge/AI-Machine%20Learning-blue)
-![](https://img.shields.io/badge/Python-Expert-yellow)
-![](https://img.shields.io/badge/Open%20Source-Contributor-success)
-![](https://img.shields.io/badge/Student-AI%20Engineer-red)
-![](https://img.shields.io/badge/Linux-Arch-blue)
 
 ## 🚀 About Me
 
@@ -74,6 +68,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish06-official&layout=compact&theme=tokyonight"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish06-official&theme=github_dark"/>
 </p>
 
 ---
@@ -88,7 +83,7 @@
 
 ## 📈 Contribution Graph
 
-[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish06-official&theme=react-dark)](https://github.com/YOURUSERNAME)
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish06-official&theme=react-dark)](https://github.com/ashish06-official)
 
 ---
 
@@ -105,7 +100,7 @@
 
 ## 📚 Currently Learning
 
-ENTER HERE
+...
 
 ## 🎯 2026 Goals
 
