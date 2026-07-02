@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashish-u-s-32b47a362/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://github.com/ashish06-official"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:YOURMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:usashish006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
@@ -62,11 +62,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashish06-official&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish06-official&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish06-official&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -75,14 +75,14 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashish06-official&theme=algolia&margin-w=15"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=react-dark)](https://github.com/YOURUSERNAME)
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish06-official&theme=react-dark)](https://github.com/YOURUSERNAME)
 
 ---
 
@@ -120,6 +120,6 @@ ENTER HERE
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=ashish06-official&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
