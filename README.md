@@ -112,7 +112,12 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/CoolDude__006?theme=dark&font=Karma&ext=heatmap)
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CoolDude__006?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
 ---
 
 
