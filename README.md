@@ -85,6 +85,16 @@
 
 [![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish06-official&theme=react-dark)](https://github.com/ashish06-official)
 
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashish06-official/ashish06-official/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 
