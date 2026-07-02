@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">AI & Machine Learning Student | Python Developer | Future AI Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ashish;AI+%26+Machine+Learning+Student;Python+Developer;Computer+Vision+Enthusiast;Building+Real-World+AI+Projects" />
+</p>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
