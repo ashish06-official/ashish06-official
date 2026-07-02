@@ -3,6 +3,12 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+![](https://img.shields.io/badge/AI-Machine%20Learning-blue)
+![](https://img.shields.io/badge/Python-Expert-yellow)
+![](https://img.shields.io/badge/Open%20Source-Contributor-success)
+![](https://img.shields.io/badge/Student-AI%20Engineer-red)
+![](https://img.shields.io/badge/Linux-Arch-blue)
+
 ## 🚀 About Me
 
 - 🎓 AI & Machine Learning Student
