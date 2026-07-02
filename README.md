@@ -14,14 +14,25 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ashish-u-s-32b47a362/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://github.com/ashish06-official"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:usashish006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
+<a href="https://github.com/ashish06-official" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
+<a href="https://www.linkedin.com/in/ashish-u-s-32b47a362/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://leetcode.com/u/CoolDude__006/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
+</a>
+
+<a href="mailto:usashish006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+</p>
 ---
 
 ## 💻 Tech Stack
@@ -54,6 +65,9 @@
 
 <img src="https://skillicons.dev/icons?i=linux"/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-ashish06--official-181717?style=for-the-badge&logo=github)](https://github.com/ashish06-official)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/CoolDude__006/)
 </p>
 
 ---
@@ -95,6 +109,10 @@
   <img src="https://raw.githubusercontent.com/ashish06-official/ashish06-official/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/CoolDude__006?theme=dark&font=Karma&ext=heatmap)
 ---
 
 
