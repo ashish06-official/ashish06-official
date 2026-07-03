@@ -6,9 +6,10 @@
   
 </p>
 
-<img align="right" alt="Coding" width="250"
-style="margin-top:80px;"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<br><br><br><br><br>
+
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 
 ## 🚀 About Me
 
