@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Deep+Learning+Enthusiast;Python+Developer;Open+Source+Learner" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Ashish&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=22"/>
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
