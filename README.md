@@ -6,13 +6,17 @@
   
 </p>
 
-<td>
+<div align="right">
 
-<br><br>
+<br><br><br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+<img
+  width="250"
+  alt="Coding"
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+/>
 
-</td>
+</div>
 
 ## 🚀 About Me
 
