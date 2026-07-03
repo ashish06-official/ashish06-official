@@ -81,14 +81,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashish06-official&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=ashish06-official&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashish06-official&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img width="38%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashish06-official&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish06-official&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish06-official&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish06-official&theme=github_dark"/>
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashish06-official&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
