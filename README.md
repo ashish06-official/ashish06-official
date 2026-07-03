@@ -155,7 +155,7 @@
 - 🚀 FastAPI
 - 📊 Data Engineering
 
-
+--- 
 
 ## 🎯 2026 Goals
 
