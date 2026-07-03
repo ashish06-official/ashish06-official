@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Ashish&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=ASHISH&fontColor=00F7FF&fontSize=65&animation=twinkling&desc=AI%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descSize=20"/>
 </p>
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
