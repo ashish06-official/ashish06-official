@@ -5,13 +5,6 @@
   />
 </p>
 
-<img
-  align="right"
-  width="250"
-  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-  alt="Coding"
-/>
-
 ## 🚀 About Me
 
 - 🎓 AI & Machine Learning Student
