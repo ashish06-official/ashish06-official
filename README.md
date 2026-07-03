@@ -3,6 +3,7 @@
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=ASHISH&fontSize=75&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=58&descSize=22"
   />
+  
 </p><img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 
