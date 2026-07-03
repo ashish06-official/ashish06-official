@@ -1,18 +1,29 @@
-
 <p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,12,20,24,30&text=ASHISH&fontSize=75&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=58&descSize=22"
   />
-  
 </p>
+
 <img
   align="right"
   width="250"
   alt="Coding"
   src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-</p>
+/>
 
+## 🚀 About Me
+
+- 🎓 AI & Machine Learning Student
+- 🌱 Currently learning **Deep Learning, Computer Vision, NLP**
+- 💡 Interested in AI Applications and Open Source
+- 💻 Building real-world AI projects
+- 🎯 Goal: Become an AI Engineer
+- ⚡ Fun Fact: I enjoy solving coding problems every day.
+
+<br clear="right"/>
+
+---
 ## 🚀 About Me
 
 - 🎓 AI & Machine Learning Student
