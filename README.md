@@ -24,16 +24,6 @@
 <br clear="right"/>
 
 ---
-## 🚀 About Me
-
-- 🎓 AI & Machine Learning Student
-- 🌱 Currently learning **Deep Learning, Computer Vision, NLP**
-- 💡 Interested in AI Applications and Open Source
-- 💻 Building real-world AI projects
-- 🎯 Goal: Become an AI Engineer
-- ⚡ Fun Fact: I enjoy solving coding problems every day.
-
----
 
 ## 🌐 Connect With Me
 
