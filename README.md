@@ -6,15 +6,13 @@
   />
   
 </p>
-
+<br><br>
 <img
   align="right"
   width="250"
   alt="Coding"
   src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 />
-
-<br><br>
 
 
 ## 🚀 About Me
