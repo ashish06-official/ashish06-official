@@ -156,6 +156,9 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer" width="100%"/>
+
+---
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ashish06-official&label=Profile%20Views&color=blue&style=flat"/>
