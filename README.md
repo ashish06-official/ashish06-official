@@ -129,7 +129,8 @@
 
 ### 📊 Customer Churn Prediction
 
-[![Churn Prediction](https://img.shields.io/badge/📊_Customer_Churn-View_Project-green?style=for-the-badge)(https://github.com/ashish06-official/Attrtion_Prediction))
+[![Churn Prediction](https://img.shields.io/badge/📊_Customer_Churn-View_Project-green?style=for-the-badge)](https://github.com/ashish06-official/Attrtion_Prediction )
+
 
 ✔ Machine Learning
 
