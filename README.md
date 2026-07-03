@@ -142,7 +142,20 @@
 
 ## 📚 Currently Learning
 
-...
+```text
+🧠 Artificial Intelligence
+📈 Machine Learning
+🤖 Deep Learning
+👁️ Computer Vision
+💬 Large Language Models (LLMs)
+📝 Natural Language Processing
+⚙️ MLOps
+☁️ Cloud Computing
+🐳 Docker
+🚀 FastAPI
+📊 Data Engineering
+```
+
 
 ## 🎯 2026 Goals
 
